@@ -1,0 +1,32 @@
+*{
+    font-family: Georgia;
+    margin: 30px;
+}
+body{
+    background-color: bisque;
+}
+h1{ç
+    padding: 15px;
+    border: 10px;
+    border-style: dashed;
+    color:red;
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+p{
+    color: darkorchid;
+    text-align: justify;
+    border: ;
+    border-radius: 30px;
+    
+    border-color: blue;
+    border-style: solid; padding: 10px;
+    background-color: aqua;
+
+}
+
+img{
+    width: 43%;
+    
+}
